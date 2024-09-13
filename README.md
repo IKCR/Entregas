@@ -5,6 +5,6 @@ Este repositorio contiene el código de Python utilizado para realizar una regre
 
 ## Cómo Ejecutar el Análisis
 
- **Abrir en Google Colab**: Haz clic en el siguiente enlace para abrir el notebook directamente en Google Colab o al ingresar en Regresion_Lineal.ipynb aparecera el icono de Google colab donde lo llevara directamente al codigo:
+ **Abrir en Google Colab**: Haz clic en el siguiente enlace para abrir el notebook directamente en Google Colab o al ingresar en la carpeta TP1 en el archivo que lleva por nombre Regresion_Lineal.ipynb aparecera el icono de Google colab donde lo llevara directamente al codigo:
 
    **[Abrir en Colab]** (https://colab.research.google.com/github/IKCR/Entregas/blob/main/TP1/Regresion_Lineal.ipynb)
